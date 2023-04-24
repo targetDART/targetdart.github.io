@@ -6,16 +6,16 @@ permalink: /team/
 
 ## Project Owner
 ### Univ.-Prof. Dr. Michael Bader
-<img src="assets/img/Bader.jpg" height=240 />
+<img src="../assets/img/Bader.jpg" height=240 />
 Add some description for the person.
 
 ## Project Leader
 ### Dr. Christian Terboven
-<img src="assets/img/Terboven.jpeg" height=240 />
+<img src="./assets/img/Terboven.jpeg" height=240 />
 Add some description for the person.
 
 ### Dr. Jose Garcia
-<img src="assets/img/Garcia.jpg" height=240 />
+<img src="~/assets/img/Garcia.jpg" height=240 />
 Together with his research group, José Gracia works on topics around scalable programming models and tools. This includes, in particular, new approaches for MPI and task-based programming models and their interoperability. Furthermore, he works on tools for performance analysis, characterisation of application performance and optimisation of scientific codes and workflows.
 
 Dr Gracia also participates in user support and is responsible for part of the HLRS software installation.
