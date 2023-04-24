@@ -41,7 +41,7 @@ At HLRS, Siebert is preparing applications for the exascale era.
 Add some description for the person.
 
 ### David Scheller
-<img src="../assets/img/Scheller.jpg" height="240" />
+<img src="../assets/img/Schneller.jpg" height="240" />
 
 Add some description for the person.
 
