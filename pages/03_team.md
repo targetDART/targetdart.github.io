@@ -14,7 +14,7 @@ Add some description for the person.
 ### Dr. Christian Terboven
 <img src="../assets/img/Terboven.jpeg" height="240" />
 
-Add some description for the person.
+Dr. Christian Terboven is a senior scientist and leads the HPC group at RWTH Aachen University. His research interests center around Parallel Programming and related Software Engineering aspects. Dr. Terboven has been involved in the Analysis, Tuning and Parallelization of several large-scale simulation codes for various architectures. He is responsible for several research projects in the area of programming models and approaches to improve the productivity and efficiency of modern HPC systems.
 
 ### Dr. Jose Gracia
 <img src="../assets/img/Garcia.jpg" height="240" />
