@@ -38,10 +38,14 @@ At HLRS, Siebert is preparing applications for the exascale era.
 
 Add some description for the person.
 
-### David Scheller
+### David Schneller
 <img src="../assets/img/Schneller.jpg" height="240" />
 
-Add some description for the person.
+David Schneller is a PhD candidate in computer science under Prof. Bader at TUM since March 2023.
+
+Before that, he has completed a Master's degree in computer science (2023), and a second Master's degree in mathematics (2022), after having done a Bachelor's in both subjects each. His studies broadly focused on nonlinear optimization, numerical simulation of PDEs and dynamical systems, and high performance computing.
+
+He is currently one of the developers of [SeisSol](https://seissol.org/), mainly working on the GPU and scheduling part of the application.
 
 ### Mario Wille
 <img src="../assets/img/Mario_Wille.webp" height="240" />
