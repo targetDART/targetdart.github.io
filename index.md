@@ -20,7 +20,7 @@ With the current trend of exascale systems relying mostly on GPUs
 for performance. This extension towards dynamic scheduling between
 GPUs becomes necessary to efficiently utilize the target hardware with
 large dynamic simulation, many of which make use of dynamic mesh
-refinement, such as [HxaHyPE](https://www5.in.tum.de/forschung/exahype/) and [SeisSol](https://seissol.lrz.de/) . Both applications are
+refinement, such as [ExaHyPE](https://www5.in.tum.de/forschung/exahype/) and [SeisSol](https://seissol.lrz.de/) . Both applications are
 adapted with the developed TargetDART approach, in addition to a many smaller benchmarks.
 
 ## Goal
