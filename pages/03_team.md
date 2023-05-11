@@ -8,7 +8,7 @@ permalink: /team/
 ### Univ.-Prof. Dr. Michael Bader
 <img src="../assets/img/Bader.jpg" height="240" />
 
-Add some description for the person.
+Michael Bader is Associate Professor at the Technical University of Munich. He works on hardware-aware algorithms for high performance computing. In particular, he focuses on challenges imposed by latest supercomputing platforms, and the development of suitable efficient and scalable algorithms and software for simulation tasks in science and engineering. 
 
 ## Project Leader
 ### Dr. Christian Terboven
@@ -17,7 +17,7 @@ Add some description for the person.
 Dr. Christian Terboven is a senior scientist and leads the HPC group at RWTH Aachen University. His research interests center around Parallel Programming and related Software Engineering aspects. Dr. Terboven has been involved in the Analysis, Tuning and Parallelization of several large-scale simulation codes for various architectures. He is responsible for several research projects in the area of programming models and approaches to improve the productivity and efficiency of modern HPC systems.
 
 ### Dr. Jose Gracia
-<img src="../assets/img/Grcia.jpg" height="240" />
+<img src="../assets/img/Gracia.jpg" height="240" />
 
 Together with his research group, José Gracia works on topics around scalable programming models and tools. This includes, in particular, new approaches for MPI and task-based programming models and their interoperability. Furthermore, he works on tools for performance analysis, characterisation of application performance and optimisation of scientific codes and workflows.
 
@@ -42,6 +42,11 @@ Add some description for the person.
 <img src="../assets/img/Schneller.jpg" height="240" />
 
 Add some description for the person.
+
+### Mario Wille
+<img src="../assets/img/Mario_Wille.webp" height="240" />
+
+Mario Wille is a doctoral candidate at the Technical University of Munich, with a primary focus on Computational Science and Engineering and High Performance Computing. His research centers on developing algorithms for heterogeneous hardware architectures, targeting exascale supercomputers and extreme scales. During his Bachelor's and Master's studies, Mario explored techniques for improving the computational efficiency of Smoothed Particle Hydrodynamics (SPH) in the context of solving multi-phase fluid dynamics problems on GPUs.
 
 ### Adrian Schmitz
 <img src="../assets/img/Schmitz.png" height="240" />
