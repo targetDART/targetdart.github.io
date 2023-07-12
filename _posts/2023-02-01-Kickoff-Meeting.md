@@ -3,6 +3,6 @@ layout: post
 title: "Kickoff Meeting"
 ---
 
-The the first and second February of 2023 the kickoff meeting in Garchingen with all members took place.
+On February 1 and 2, 2023, the kickoff meeting in Garching took place together with all members at that time.
 
 ## TBD.
