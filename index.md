@@ -18,5 +18,5 @@ Beyond that, by the HPC standard programming models MPI and OpenMP as well as th
 ## Funding
 targetDART is funded by the German Ministry of Research and Education (BMBF) as part of its SCALEXA initiative to develop new methods and technologies for exascale high performance computing. 
 
-<img src="assets/img/preliminary-logo.jpg" />
+<img src="assets/img/Logo1_transparent.png" />
 

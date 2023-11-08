@@ -23,7 +23,7 @@ title: targetDART
 #   name: Jannis Klinkenberg
 #   email: j.klinkenberg@itc.rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  TargetDART is a BMBF-funded project focusing on the development of adaptive and reactive task migration which targets both CPUs and GPUs in heterogeneous exascale systems. The project is a collaboration between TUM (Munich), HLRS (Stuttgart) and the RWTH Aachen.
+  Funded by the European Union - NextGenerationEU. The views and opinions expressed are solely those of the author(s) and do not necessarily reflect the views of the European Union or the European Commission. Neither the European Union nor the European Commission can be held responsible for them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
