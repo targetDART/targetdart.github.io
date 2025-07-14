@@ -16,7 +16,7 @@ Boltzmannstr. 3<br>
 Germany
 
 ## Funding
-The project targetDART is funded by the German Federal Ministry of Education and Research (BMBF) under the SCALEXA funding call. The views and opinions expressed are solely those of the author(s) and do not necessarily reflect the views of the European Union or the European Commission. The German Federal Ministry of Education and Research (BMBF) can not be held responsible for them.
+The project targetDART is funded by the German Federal Ministry of Research, Technology and Space (BMFTR) under the SCALEXA funding call. The views and opinions expressed are solely those of the author(s) and do not necessarily reflect the views of the European Union or the European Commission. The German Federal Ministry of Research, Technology and Space (BMFTR) can not be held responsible for them.
 
 <img src="../assets/img/BMBF_gefördert vom_englisch.jpg" height="240" /> 
 

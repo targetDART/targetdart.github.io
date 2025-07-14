@@ -23,7 +23,7 @@ title: targetDART
 #   name: Jannis Klinkenberg
 #   email: j.klinkenberg@itc.rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  The project targetDART is funded by the German Federal Ministry of Education and Research (BMBF) under the SCALEXA funding call. The views and opinions expressed are solely those of the author(s) and do not necessarily reflect the views of the European Union or the European Commission. The German Federal Ministry of Education and Research (BMBF) can not be held responsible for them.
+  The project targetDART is funded by the German Federal Ministry of Research, Technology and Space (BMFTR) under the SCALEXA funding call. The views and opinions expressed are solely those of the author(s) and do not necessarily reflect the views of the European Union or the European Commission. The German Federal Ministry of Research, Technology and Space (BMFTR) can not be held responsible for them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
